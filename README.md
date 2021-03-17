@@ -1,24 +1,3 @@
-<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
-<style>
-body {
-  font-family:'Noto Sans SC CJK Regular','SongTi',serif;
-}
-
-h1 {
-  border-bottom: solid 3px skyblue;
-  position: relative;
-}
-
-h1:after {
-  position: absolute;
-  content: " ";
-  display: block;
-  border-bottom: solid 3px #ffc778;
-  bottom: -3px;
-  width: 30%;
-}</style>
 
 # 个人基本信息
 
@@ -28,19 +7,7 @@ h1:after {
  - `兴趣`：烧菜、室内设计、ACGN
  - `联系电话`：13230379995
  - `电子邮件`：<takenoko1997@foxmail.com>
-<!-- - `个人主页`：<https://uchi.takenoko1997.ink>-->
  - `职业意向`：软件工程相关
-<!--
-<table id="personal" style="border:0; width=100%">
-<tr>
-<td colspan="10">姓名：<br>李一喆</br><span style="width=4rem;"></span>年龄：23岁<span style="width=4rem;"></span>政治面貌：团员</td>
-<td colspan="2" rowspan="4"><img src="_media/photo.jpg" style="width:calc(min(25vw,15rem))"></img></td>
-</tr>
-<tr><td colspan="10">03</td></tr>
-<tr><td colspan="10">04</td></tr>
-<tr><td colspan="10">05</td></tr> 
-</table>-->
-
 
 # 教育经历
 
