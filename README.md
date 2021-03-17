@@ -1,7 +1,12 @@
 <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
 <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
-<style>h1 {
+<style>
+body {
+  font-family:'Noto Sans SC CJK Regular','SongTi',serif;
+}
+
+h1 {
   border-bottom: solid 3px skyblue;
   position: relative;
 }
@@ -17,7 +22,7 @@ h1:after {
 
 # 个人基本信息
 
-<img src="_media/photo.jpg" style="width:calc(min(25vw,10rem)); float:right;"></img>
+<img src="_media/photo.jpg" style="width:calc(min(24vw,9rem)); float:right;"></img>
  - `姓名`：**李一喆**
  - `年龄`：23岁
  - `兴趣`：烧菜、室内设计、ACGN
